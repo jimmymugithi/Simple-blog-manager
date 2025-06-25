@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "content": "Men's health.",
+      "author": "Jimmy Train"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "content": "Successful men characteristics",
+      "author": "Ethan King"
+    }
+  ]
+}

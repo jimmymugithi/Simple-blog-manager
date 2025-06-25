@@ -1,0 +1,19 @@
+#main-container {
+  display: flex;
+  gap: 2rem;
+}
+#post-list {
+  flex: 1;
+  border-right: 1px solid #ccc;
+}
+#post-detail {
+  flex: 2;
+}
+.hidden {
+  display: none;
+}
+.post-title {
+  cursor: pointer;
+  margin-bottom: 8px;
+  color: blue;
+}
